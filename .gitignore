@@ -11,5 +11,10 @@ Gemfile.lock
 node_modules
 .DS_Store
 .env
+<<<<<<< HEAD
 _posts/2024-06-25-RDS-and-Flask-Setup
 venv
+=======
+_posts/2024-06-25-RDS-and-Flask-Setup-
+venv/
+>>>>>>> 6cff6d0 (venv to ignore)
